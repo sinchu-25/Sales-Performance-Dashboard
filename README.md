@@ -1,10 +1,10 @@
-# Sales Performance Dashboard
+<img width="751" height="337" alt="Sales Performance" src="https://github.com/user-attachments/assets/a0bbfa18-73ab-4b80-97ec-18187a44e129" /># Sales Performance Dashboard
 
 ## Overview
 An interactive Power BI dashboard built using the Superstore dataset to analyze sales performance.
 
 ## Screenshot
-![Sales Dashboard](Screenshot%2026-08-01%002128.png)
+![Sales Performance Dashboard](Sales Performance.png)
 
 ## KPIs
 - Total Sales
