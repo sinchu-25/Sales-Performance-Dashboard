@@ -4,7 +4,7 @@
 An interactive Power BI dashboard built using the Superstore dataset to analyze sales performance.
 
 ## Screenshot
-![Sales Performance Dashboard](Sales Performance.png)
+![Sales Performance Dashboard](Sales_Performance.png)
 
 ## KPIs
 - Total Sales
