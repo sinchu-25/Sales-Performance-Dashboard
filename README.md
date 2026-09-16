@@ -37,7 +37,7 @@ The dashboard provides a comprehensive view of overall sales performance and hel
 The objective of this dashboard is to provide a clear overview of sales and profitability and help businesses identify high-performing regions, categories, customer segments, and product sub-categories for better decision-making.
 
 ## Dashboard Preview
-![Sales Performance Dashboard](Sales_Performance.png)
+![Sales Performance Dashboard](Sales%20Performance.png)
 
 ## Project Files
 
