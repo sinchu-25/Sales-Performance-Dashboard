@@ -3,6 +3,9 @@
 The Sales Performance Dashboard is an interactive Power BI dashboard designed to analyze sales, profit, quantity, discounts, and orders across different regions, customer segments, product categories, states, and sub-categories.
 The dashboard provides a comprehensive view of overall sales performance and helps identify the regions, categories, segments, and products contributing to business revenue and profit.
 
+## Dashboard Preview
+![Sales Performance Dashboard](Sales%20Performance.png)
+
 ## Tools & Technologies
 - Power BI
 - Power Query
@@ -35,9 +38,6 @@ The dashboard provides a comprehensive view of overall sales performance and hel
 
 ## Business Objective
 The objective of this dashboard is to provide a clear overview of sales and profitability and help businesses identify high-performing regions, categories, customer segments, and product sub-categories for better decision-making.
-
-## Dashboard Preview
-![Sales Performance Dashboard](Sales%20Performance.png)
 
 ## Project Files
 
