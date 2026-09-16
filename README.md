@@ -42,7 +42,7 @@ The objective of this dashboard is to provide a clear overview of sales and prof
 ## Project Files
 
 - `Sales_Performance_Dashboard.pbix` – Power BI dashboard file
-- `Sales_Performance.png` – Dashboard preview
+- `Sales Performance.png` – Dashboard preview
 
 ## Project Skills Demonstrated
 
